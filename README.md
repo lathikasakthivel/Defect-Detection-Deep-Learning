@@ -14,6 +14,12 @@ A Convolutional Neural Network (CNN) implemented in PyTorch for detecting manufa
 - Classification Report
 - Visualized Predictions with readable labels
 
+## 📥 Dataset
+
+**Real-life Industrial Dataset of Casting Product Image Data** sourced from Kaggle.
+
+📦 [🔗 View & Download Dataset on Kaggle](https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
+
 ## 📂 Directory Structure
   defect_detection_cnn/
   ├── data/
